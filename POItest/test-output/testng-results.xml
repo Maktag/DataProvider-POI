@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1907" started-at="2017-05-25T07:39:31Z" finished-at="2017-05-25T07:39:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1907" started-at="2017-05-25T07:39:31Z" finished-at="2017-05-25T07:39:33Z">
+      <class name="com.POI.test.POItest.AppTest">
+        <test-method status="PASS" signature="setData(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.POI.test.POItest.AppTest@36d4b5c]" name="setData" duration-ms="11" started-at="2017-05-25T03:39:33Z" data-provider="returndata" finished-at="2017-05-25T03:39:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mak]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tag]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[28.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="setData(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.POI.test.POItest.AppTest@36d4b5c]" name="setData" duration-ms="2" started-at="2017-05-25T03:39:33Z" data-provider="returndata" finished-at="2017-05-25T03:39:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yopmail]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[76.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="setData(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.POI.test.POItest.AppTest@36d4b5c]" name="setData" duration-ms="2" started-at="2017-05-25T03:39:33Z" data-provider="returndata" finished-at="2017-05-25T03:39:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qwe]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yop]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[786.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="setData(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.POI.test.POItest.AppTest@36d4b5c]" name="setData" duration-ms="2" started-at="2017-05-25T03:39:33Z" data-provider="returndata" finished-at="2017-05-25T03:39:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mail]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[99.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+      </class> <!-- com.POI.test.POItest.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
